@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>移动进入</title>
+    <style>
+        #paly
+        {
+            background-color: aqua;
+
+            width: 120px;
+
+            height: 20px;
+
+            padding: 40px;
+
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <div id="paly" onmouseover="moveOver(this)" onmouseout="moveOut(this)">
+        Move on mouse it!
+    </div>
+
+<script>
+    function moveOver(obj) {
+        obj.innerHTML = "Think your!";
+    }
+
+    function moveOut(obj) {
+        obj.innerHTML = "Move moues on it!";
+    }
+</script>
+</body>
+</html>
