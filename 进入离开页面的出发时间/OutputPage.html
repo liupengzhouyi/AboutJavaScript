@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h1>
+    Turn UpperCase after input
+</h1>
+
+<hr>
+
+<input type="text" name="name" onchange="turnUpperCase()" id="input"/>
+
+
+<script>
+    function turnUpperCase() {
+        var x = document.getElementById("input");
+        x.value = x.value.toUpperCase();
+    }
+</script>
+
+</body>
+</html>
