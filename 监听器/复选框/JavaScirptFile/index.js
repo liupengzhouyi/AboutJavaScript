@@ -16,7 +16,6 @@ window.onload = function () {
         }
     },false);
 
-
     //全部按钮什么时候被自动选中以及自动取消
     if (checkbox.length == undefined) {//一个选项时
         checkbox.addEventListener('click',function(){
