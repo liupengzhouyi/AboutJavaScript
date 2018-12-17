@@ -3,8 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <style>
+        #paly
+        {
+            color: aqua;
+
+            background-color: blueviolet;
+
+            width: 120px;
+
+            font-size: 12px;
+
+            height: 20px;
+
+            padding: 40px;
+        }
+    </style>
 </head>
 <body>
+    <div onmousedown="mDown(this)" onmouseup="mUp(this)" id="paly">
+        Place Click Me!
+    </div>
 
+<script>
+    function mDown(obj) {
+        obj.style.backgroundColor = "red";
+        obj.innerHTML = "Place Pelease Moues!";
+    }
+    
+    function mUp(obj) {
+        obj.style.backgroundColor = "";
+        obj.innerHTML = "Place Click Moues!";
+    }
+</script>
 </body>
 </html>
