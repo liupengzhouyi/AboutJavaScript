@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>验证表单</title>
+</head>
+<body>
+<form name="name" action="#" onsubmit="validateFrom()" method="post">
+    <span>name</span>
+    <input type="text" name="fname">
+    <input type="submit" value="submit">
+</form>
+
+
+<script>
+    function validateFrom() {
+        var x = document.forms["name"]["fname"].value;
+        if (x == null || x == "") {
+            alert("need you input name!");
+            return false;
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>
+    javaScript 验证输入
+</h1>
+
+<hr>
+
+<p>
+    place input number rand in 1 to 10!
+</p>
+
+<input name="number" id="number" type="number" />
+
+<button id="button" onclick="myFunction()">
+    submit
+</button>
+
+<p id="text"></p>
+
+<script>
+    function myFunction() {
+        var x, text;
+
+        x = document.getElementById("number").value;
+
+        if (isNaN(x) || x < 1 || x > 10) {
+            text = "Input Error!";
+        } else {
+            text = "Input Rihgt!";
+        }
+
+        document.getElementById("text").innerHTML = text;
+
+    }
+</script>
+
+</body>
+</html>
