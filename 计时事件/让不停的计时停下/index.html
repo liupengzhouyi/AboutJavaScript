@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>计时</title>
+</head>
+<body>
+<h1>
+   Show Time
+</h1>
+
+<hr>
+
+<p id="time"></p>
+
+<button onclick="stopShowTime()">
+    Click me shop show time
+</button>
+
+<script>
+    function showTime() {
+        var newTime = new Date();
+        var time = newTime.toLocaleTimeString();
+        document.getElementById("time").innerText = time;
+    }
+
+    function stopShowTime() {
+        clearInterval(myVar)
+    }
+
+    myVar = setInterval(function () {
+        showTime()
+    }, 1000);
+</script>
+
+</body>
+</html>

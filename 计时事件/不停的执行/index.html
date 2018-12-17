@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>
+    每一次的点击都会有一个警告框
+</h1>
+<hr>
+<p>
+    <button onclick="functionForHello()">
+        start after click me!
+    </button>
+</p>
+
+<script>
+    function functionForHello() {
+        setInterval(function () {
+            alert("Hello!")
+        }, 3000)
+    }
+</script>
+</body>
+</html>
