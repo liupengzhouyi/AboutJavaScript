@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0c1a341-e198-451c-9a79-429839258d36" name="Default Changelist" comment="" />
+    <list default="true" id="d0c1a341-e198-451c-9a79-429839258d36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/轮播图/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="456">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -28,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#547#554#1" expanded="true" />
@@ -42,29 +44,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/登陆表单/CSSFile/index.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/进度条/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+            <state relative-caret-position="115">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/登陆表单/JavaScriptFile/index.js">
+        <entry file="file://$PROJECT_DIR$/进度条/CSSFile/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="207">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/轮播图/CSSFiles/index.css">
+        <entry file="file://$PROJECT_DIR$/进度条/JavaScriptFile/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="276">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -135,10 +137,13 @@
         <option value="$PROJECT_DIR$/登陆表单/HTMLFile/index.html" />
         <option value="$PROJECT_DIR$/登陆表单/JavaScriptFile/index.js" />
         <option value="$PROJECT_DIR$/登陆表单/CSSFile/index.css" />
+        <option value="$PROJECT_DIR$/进度条/JavaScriptFile/index.js" />
+        <option value="$PROJECT_DIR$/进度条/CSSFile/index.css" />
+        <option value="$PROJECT_DIR$/进度条/HTMLFile/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="720" />
     <option name="height" value="877" />
@@ -159,24 +164,35 @@
             <path>
               <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="登陆表单" type="462c0819:PsiDirectoryNode" />
+              <item name="轮播图" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="登陆表单" type="462c0819:PsiDirectoryNode" />
-              <item name="CSSFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="登陆表单" type="462c0819:PsiDirectoryNode" />
+              <item name="轮播图" type="462c0819:PsiDirectoryNode" />
               <item name="HTMLFile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="登陆表单" type="462c0819:PsiDirectoryNode" />
+              <item name="进度条" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="进度条" type="462c0819:PsiDirectoryNode" />
+              <item name="CSSFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="进度条" type="462c0819:PsiDirectoryNode" />
+              <item name="HTMLFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="进度条" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScriptFile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -229,6 +245,7 @@
       <workItem from="1548856108754" duration="4143000" />
       <workItem from="1549974297640" duration="1150000" />
       <workItem from="1550065116886" duration="1000000" />
+      <workItem from="1550148300698" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="Mac 初始化">
       <created>1548856316013</created>
@@ -272,17 +289,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550065951751</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaScript 实现 进度条 V 1.0.0">
+      <created>1550148530508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550148530508</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6433000" />
+    <option name="totallyTimeSpent" value="6700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24242425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49213162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,7 +335,8 @@
     <MESSAGE value="jQuery 实现 轮播图 V 1.0.0" />
     <MESSAGE value="JavaScript 实现 轮播图 V 1.0.0" />
     <MESSAGE value="JavaScript 实现 登陆表单 V 1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript 实现 登陆表单 V 1.0.0" />
+    <MESSAGE value="JavaScript 实现 进度条 V 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript 实现 进度条 V 1.0.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/事件/计时事件/不停的执行/index.html">
@@ -356,6 +381,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/登陆表单/CSSFile/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2691">
+          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/登陆表单/JavaScriptFile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/轮播图/CSSFiles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap轮播图/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
@@ -379,17 +425,29 @@
     <entry file="file://$PROJECT_DIR$/Bootstrap轮播图/JavaScriptFile/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/轮播图/CSSFiles/index.css">
+    <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1633">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="138">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#547#554#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/进度条/JavaScriptFile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/轮播图/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="456">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -399,29 +457,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/登陆表单/JavaScriptFile/index.js">
+    <entry file="file://$PROJECT_DIR$/进度条/CSSFile/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/登陆表单/CSSFile/index.css">
+    <entry file="file://$PROJECT_DIR$/进度条/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#547#554#1" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
