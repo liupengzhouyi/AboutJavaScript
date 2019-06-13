@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.staticfile.org/vue/2.4.2/vue.min.js"></script>
+</head>
+<body>
+
+    <h1>
+        使用Vue
+    </h1>
+
+    <br>
+
+    <div id="paly">
+        <h2>
+            {{ msg }}
+        </h2>
+        <p>
+            {{ details() }}
+        </p>
+    </div>
+
+    <div id="paly">
+        <h2>
+            {{ msg }}
+        </h2>
+        <p>
+            {{ details() }}
+        </p>
+    </div>
+
+
+
+<script type="text/javascript">
+    var vm = new Vue({
+        el: '#paly',
+        data: {
+            msg : "This is a play!"
+        },
+        methods: {
+            details : function() {
+                return  this.msg + " By liupeng!";
+            }
+        }
+    })
+</script>
+
+
+</body>
+</html>

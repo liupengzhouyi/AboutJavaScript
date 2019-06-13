@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c1a341-e198-451c-9a79-429839258d36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/边栏/全屏幕侧边栏/CSSFile/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/边栏/全屏幕侧边栏/HTMLFile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/边栏/全屏幕侧边栏/JavaScriptFile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/HTMLFile/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/表格数据搜索/CSSFile/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/表格数据搜索/CSSFile/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/轮播图/ImageFiles/img_nature_wide.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,41 +21,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/进度条/百分比进度条/HTMLFile/index.html">
+        <entry file="file://$PROJECT_DIR$/Test/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/HTMLFile/index.html">
+        <entry file="file://$PROJECT_DIR$/json/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="377">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding>
-                <element signature="e#215#222#1" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#547#554#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/JavaScriptFile/index.js">
+        <entry file="file://$PROJECT_DIR$/表格数据搜索/CSSFile/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/CSSFile/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -61,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/进度条/JavaScriptFile/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="180">
               <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
@@ -70,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap轮播图/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -79,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jQuery轮播图/HTMLFile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="345">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -105,9 +108,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -139,21 +142,23 @@
         <option value="$PROJECT_DIR$/弹框/JavaScriptFile/index.js" />
         <option value="$PROJECT_DIR$/弹框/CSSFile/index.css" />
         <option value="$PROJECT_DIR$/弹框/HTMLFile/index.html" />
-        <option value="$PROJECT_DIR$/表格数据搜索/CSSFile/index.css" />
         <option value="$PROJECT_DIR$/表格数据搜索/JavaScriptFile/index.js" />
-        <option value="$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html" />
         <option value="$PROJECT_DIR$/进度条/百分比进度条/CSSFile/index.css" />
         <option value="$PROJECT_DIR$/进度条/百分比进度条/HTMLFile/index.html" />
         <option value="$PROJECT_DIR$/进度条/百分比进度条/JavaScriptFile/index.js" />
         <option value="$PROJECT_DIR$/边栏/全屏幕侧边栏/CSSFile/index.css" />
         <option value="$PROJECT_DIR$/边栏/全屏幕侧边栏/JavaScriptFile/index.js" />
         <option value="$PROJECT_DIR$/边栏/全屏幕侧边栏/HTMLFile/index.html" />
+        <option value="$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html" />
+        <option value="$PROJECT_DIR$/表格数据搜索/CSSFile/index.css" />
+        <option value="$PROJECT_DIR$/Test/index.html" />
+        <option value="$PROJECT_DIR$/json/HTMLFile/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="720" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -161,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,52 +177,32 @@
             <path>
               <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="边栏" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="全屏幕侧边栏" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="全屏幕侧边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="CSSFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="全屏幕侧边栏" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
               <item name="HTMLFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="全屏幕侧边栏" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScriptFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AboutJavaScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AboutJavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="进度条" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -261,7 +247,15 @@
       <workItem from="1550235812428" duration="178000" />
       <workItem from="1550332113310" duration="209000" />
       <workItem from="1550585640378" duration="366000" />
-      <workItem from="1550676835143" duration="260000" />
+      <workItem from="1550676835143" duration="361000" />
+      <workItem from="1555398482335" duration="1092000" />
+      <workItem from="1557147304194" duration="367000" />
+      <workItem from="1557206423652" duration="694000" />
+      <workItem from="1557321074347" duration="437000" />
+      <workItem from="1557386362309" duration="70000" />
+      <workItem from="1559814081957" duration="753000" />
+      <workItem from="1559828191769" duration="81000" />
+      <workItem from="1560424298042" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="Mac 初始化">
       <created>1548856316013</created>
@@ -333,17 +327,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550586162773</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="JavaScript 边栏.全屏幕侧边栏 V 1.0.0">
+      <created>1550677142763</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550677142763</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7713000" />
+    <option name="totallyTimeSpent" value="12817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="720" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49213162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18957011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,7 +377,8 @@
     <MESSAGE value="JavaScript 实现 底部弹框 V 1.0.0" />
     <MESSAGE value="JavaScript 实现 表格数据搜索 V 1.0.0" />
     <MESSAGE value="JavaScript 百分比进度条 V 1.0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript 百分比进度条 V 1.0.0" />
+    <MESSAGE value="JavaScript 边栏.全屏幕侧边栏 V 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript 边栏.全屏幕侧边栏 V 1.0.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/事件/计时事件/不停的执行/index.html">
@@ -407,13 +409,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/轮播图/5.jpg" />
     <entry file="file://$PROJECT_DIR$/轮播图/1.png" />
-    <entry file="file://$PROJECT_DIR$/监听器/复选框/HTMLFile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/轮播图/JavaScriptFile/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -455,18 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#547#554#1" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/进度条/CSSFile/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -502,31 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/表格数据搜索/CSSFile/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/表格数据搜索/JavaScriptFile/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/进度条/百分比进度条/CSSFile/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -541,24 +499,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/进度条/百分比进度条/HTMLFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/JavaScriptFile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/CSSFile/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格数据搜索/JavaScriptFile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格数据搜索/HTMLFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#th#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/监听器/复选框/HTMLFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/HTMLFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/页面跳转/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/登陆表单/HTMLFile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#547#554#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/表格数据搜索/CSSFile/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/进度条/JavaScriptFile/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
+        <state relative-caret-position="180">
           <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap轮播图/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery轮播图/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="345">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -571,35 +607,17 @@
     <entry file="file://$PROJECT_DIR$/Bootstrap轮播图/JavaScriptFile/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/进度条/百分比进度条/HTMLFile/index.html">
+    <entry file="file://$PROJECT_DIR$/Test/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/CSSFile/index.css">
+    <entry file="file://$PROJECT_DIR$/json/HTMLFile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/JavaScriptFile/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/边栏/全屏幕侧边栏/HTMLFile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#215#222#1" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
         </state>
       </provider>
     </entry>

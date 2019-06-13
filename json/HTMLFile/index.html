@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    //定义json
+    var person = {"name":"liupeng", age:23, 'sex':true}
+    //alert(person);
+
+    /*
+     * 嵌套 json {} --》 []
+     */
+    var persons = {
+        "persons" : [
+            {"name":"liupeng1", age:23, 'sex':true},
+            {"name":"liupeng2", age:23, 'sex':true},
+            {"name":"liupeng3", age:23, 'sex':true}
+        ]
+    }
+    //alert(persons)
+
+    /*
+     * 嵌套 json [] --> {}
+     */
+    var arrayPersons = [
+        {"name":"liupeng1", age:23, 'sex':true},
+        {"name":"liupeng2", age:23, 'sex':true},
+        {"name":"liupeng3", age:23, 'sex':true}
+    ]
+
+    for(var key in arrayPersons) {
+        for (key1 in arrayPersons[key]) {
+            alert(key1 + ":" + arrayPersons[key][key1]);
+        }
+    }
+
+    //alert(arrayPersons)
+
+    //alert(arrayPersons[1].name)
+
+</script>
+</body>
+</html>
