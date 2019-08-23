@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Bootstrap 实例 - 模态框（Modal）插件</title>
+    <link rel="stylesheet" href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="http://cdn.static.runoob.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<h2>创建模态框（Modal）</h2>
+<!-- 按钮触发模态框 -->
+<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="example1">
+    添加
+</button>
+<button class="btn btn-primary btn-lg" onclick="update_info(8)" data-toggle="modal" data-target="#myModal">
+    编辑
+</button>
+
+<div id="container">
+    <div id="example1" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <a class="close" data-dismiss="modal">×</a>
+                    <h3>这是第一个模态框</h3>
+                </div>
+                <div class="modal-body">
+                    <h4>第一个模态框中的文本</h4>
+                </div>
+                <div class="modal-footer">
+                    <a data-toggle="modal" href="#example2" class="btn btn-primary btn-large">弹出第二个模态框</a>
+                    <a href="#" class="btn" data-dismiss="modal">关闭</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="example2" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <a class="close" data-dismiss="modal">×</a>
+                    <h3>这是第二个模态框</h3>
+                </div>
+                <div class="modal-body">
+                    <h4>第二个模态框中的文本</h4>
+                </div>
+                <div class="modal-footer">
+                    <a data-toggle="modal" href="#example3" class="btn btn-primary btn-large">弹出第三个模态框</a>
+                    <a href="#" class="btn" data-dismiss="modal">关闭</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="example3" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <a class="close" data-dismiss="modal">×</a>
+                    <h3>这是第三个模态框</h3>
+                </div>
+                <div class="modal-body">
+                    <h4>第三个模态框中的文本</h4>
+                </div>
+                <div class="modal-footer">
+                    <!--<a data-toggle="modal" href="#example2" class="btn btn-primary btn-large">发动演示模态框</a>-->
+                    <a href="#" class="btn" data-dismiss="modal">关闭</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <p><a data-toggle="modal" href="#example1" class="btn btn-primary btn-large">发动演示模态框</a></p>
+</div>
+
+</body>
+</html>
