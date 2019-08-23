@@ -64,14 +64,40 @@
                 <div class="modal-content">
                     <div class="modal-header">
                         <a class="close" data-dismiss="modal">×</a>
-                        <h3 id="secendTitle"></h3>
+                        <h3>提问</h3>
                     </div>
                     <div class="modal-body" style="height:450px">
-                        <h4>第二个模态框中的文本</h4>
+                        <h4 id="secendTitle"></h4>
+                        <form role="form">
+                            <div class="form-group">
+                                <textarea class="form-control" rows="3"></textarea>
+                            </div>
+                        </form>
+                        <h5>添加图片（最多3张）</h5>
+
+                        <input id="lefile" type="file" style="display:none">
+                        <div class="input-append">
+                            <input id="photoCover" class="input-large" type="text" style="height:30px; background-color: white">
+                            <a class="btn" onclick="$('input[id=lefile]').click();" style="background-color: darkgoldenrod">Browse</a>
+                        </div>
+
+                        <input id="lefile1" type="file" style="display:none">
+                        <div class="input-append">
+                            <input id="photoCover1" class="input-large" type="text" style="height:30px; background-color: white">
+                            <a class="btn" onclick="$('input[id=lefile]').click();" style="background-color: darkgoldenrod">Browse</a>
+                        </div>
+
+                        <input id="lefile2" type="file" style="display:none">
+                        <div class="input-append">
+                            <input id="photoCover2" class="input-large" type="text" style="height:30px; background-color: white">
+                            <a class="btn" onclick="$('input[id=lefile]').click();" style="background-color: darkgoldenrod">Browse</a>
+                        </div>
+
                     </div>
                     <div class="modal-footer">
-                        <button type="submit" class="btn btn-info">确定</button>
-                        <a href="#" class="btn" data-dismiss="modal">关闭</a>
+                        <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-large" id="next1" onclick="c2()">上一步</a>
+                        <button type="submit" class="btn btn-info" onclick="c2()">提交</button>
+                        <!--<button type="button" class="btn btn-default" data-dismiss="modal">取消</button>-->
                     </div>
                 </div>
             </div>
@@ -82,17 +108,45 @@
 
 <script>
 
-    function c1()
-    {
-        var problom = document.getElementById("inputProblom").value;
+    var problom;
+
+    // 第一次跳转：获取输入，更新第二个模态框的标题
+    function c1() {
+
+        // 获取输入
+        problom = document.getElementById("inputProblom").value;
+        // 更新第二个模态框的标题
         document.getElementById("secendTitle").innerHTML = problom;
         $('#myModal').modal('hide');
     }
 
+    // 返回第一个输入
+    function c2()
+    {
+        // 更新输入值
+        document.getElementById("inputProblom").value = problom;
+        $('#example2').modal('hide');
+    }
 
-    $(function () { $('#example2').on('hide.bs.modal', function () {
-        alert('结束');})
+    // 提交
+    function c3()
+    {
+        $('#example2').modal('hide');
+    }
+
+    $('input[id=lefile]').change(function() {
+        $('#photoCover').val($(this).val());
     });
+
+    $('input[id=lefile1]').change(function() {
+        $('#photoCover1').val($(this).val());
+    });
+
+
+    $('input[id=lefile2]').change(function() {
+        $('#photoCover2').val($(this).val());
+    });
+
 
 </script>
 <!-- Bootstrap的所有插件都依赖于jQuery，必须在引入bootstrap.min.js前引入jQuery -->

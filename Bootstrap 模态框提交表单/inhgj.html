@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!-- AUTO IMAGE ORIENTATION -->
+<div class="file-loading">
+    <input id="input-file-1" name="input-file-1[]" multiple type="file" accept="image/*">
+</div>
+<div class="checkbox">
+    <label>
+        <input id="toggleOrient" name="tog" type="checkbox" checked>
+        Toggle Auto Orientation
+    </label>
+</div>
+<div id="togStatus" class="hint-block">
+</div>
+
+<script>
+    $("#input-file-1").fileinput({
+        uploadUrl: "/file-upload-batch/2",
+        autoOrientImage: true
+    });
+    $("#toggleOrient").on('change', function() {
+        var val = $(this).prop('checked');
+        $("#input-file-1").fileinput('refresh', {
+            uploadUrl: "/file-upload-batch/2",
+            autoOrientImage: val
+        });
+        $('#togStatus').html('Fileinput is reset and <samp>autoOrientImage</samp> is set to <em>' + (val ? 'true' : 'false') + '</em>. Retry by selecting images again.');
+    });
+</script>
+
+</body>
+</html>
